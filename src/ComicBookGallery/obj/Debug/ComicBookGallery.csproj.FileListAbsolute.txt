@@ -13,14 +13,6 @@ C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\roslyn\V
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\ComicBookGallery.dll.config
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\ComicBookGallery.dll
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\ComicBookGallery.pdb
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Helpers.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Mvc.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Razor.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Webpages.Deployment.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Webpages.dll
-C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Webpages.Razor.dll
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Razor.xml
 C:\Users\camil\Source\Repos\comic-book-gallery\src\ComicBookGallery\bin\System.Web.Webpages.xml
